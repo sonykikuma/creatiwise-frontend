@@ -18,6 +18,8 @@ Recreate a given UI layout(Figma) using React and Bootstrap, featuring:
 - **Bootstrap 5** – responsive design and layout
 - **CSS Utility Classes** – for alignment, spacing, and styling
 
+ ##  Hosted link: https://creatiwise-frontend.netlify.app
+
 ## 🖥️ Getting Started
 
 ### 1. Clone the repository
