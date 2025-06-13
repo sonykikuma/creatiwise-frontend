@@ -1,12 +1,34 @@
-# React + Vite
+# Frontend Developer Assignment – Creatiwise
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a take-home assignment built using **React.js** and **Bootstrap 5**, demonstrating UI implementation skills, layout structuring, and component-based development. The design focuses on responsiveness, visual hierarchy, and accessibility.
 
-Currently, two official plugins are available:
+## 🎯 Objective
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Recreate a given UI layout(Figma) using React and Bootstrap, featuring:
 
-## Expanding the ESLint configuration
+- A hero section
+- FAQ accordion
+- Contact CTA ("LET'S TALK!")
+- Footer with branding and icons
+- Responsive layout and consistent styling
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ⚙️ Tech Stack
+
+- **React.js** – component-based architecture
+- **Bootstrap 5** – responsive design and layout
+- **CSS Utility Classes** – for alignment, spacing, and styling
+
+## 🖥️ Getting Started
+
+### 1. Clone the repository
+
+git clone https://github.com/sonykikuma/creatiwise-frontend
+cd frontend-assignment
+
+### 2. Install dependencies
+
+npm install
+
+### 3. Run the development server
+
+npm run dev
