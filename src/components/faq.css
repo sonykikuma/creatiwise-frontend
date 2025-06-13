@@ -1,0 +1,25 @@
+.accordion-dark .accordion-item {
+  background-color: #0d0d0d;
+  color: white;
+  border: none;
+}
+
+.accordion-dark .accordion-button {
+  background-color: #0d0d0d;
+  color: white;
+  box-shadow: none;
+}
+
+.accordion-dark .accordion-button:not(.collapsed) {
+  background-color: #0d0d0d;
+  color: white;
+}
+
+.accordion-dark .accordion-button::after {
+  filter: brightness(0) invert(1);
+}
+
+.accordion-dark .accordion-body {
+  background-color: #0d0d0d;
+  color: white;
+}
